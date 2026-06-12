@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="248">
+        <name>training candidates 2024</name>
+        <Folder id="249">
+            <Style id="252">
+                <IconStyle id="253">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="254">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="255">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="258">
+                <IconStyle id="259">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="260">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="261">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="264">
+                <IconStyle id="265">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="266">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="267">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="270">
+                <IconStyle id="271">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="272">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="273">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="276">
+                <IconStyle id="277">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="278">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="279">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="282">
+                <IconStyle id="283">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="284">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="285">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="288">
+                <IconStyle id="289">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="290">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="291">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="294">
+                <IconStyle id="295">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="296">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="297">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <name>1 Built-up</name>
+            <Placemark id="251">
+                <name>L1  seg5388  (Built-up)</name>
+                <description>label_id: 1
+hint class: 1 (Built-up)
+NDVI: 0.242
+NDBI: 0.063
+B8 (NIR): 1654
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#252</styleUrl>
+                <Point id="250">
+                    <coordinates>78.05201965386468,30.34031269008298,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="257">
+                <name>L2  seg2738  (Built-up)</name>
+                <description>label_id: 2
+hint class: 1 (Built-up)
+NDVI: 0.072
+NDBI: 0.048
+B8 (NIR): 1766
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#258</styleUrl>
+                <Point id="256">
+                    <coordinates>77.57695589006678,30.399583191664032,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="263">
+                <name>L3  seg5860  (Built-up)</name>
+                <description>label_id: 3
+hint class: 1 (Built-up)
+NDVI: 0.193
+NDBI: 0.002
+B8 (NIR): 1870
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#264</styleUrl>
+                <Point id="262">
+                    <coordinates>78.07408572136289,30.326692739502125,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="269">
+                <name>L4  seg4545  (Built-up)</name>
+                <description>label_id: 4
+hint class: 1 (Built-up)
+NDVI: 0.246
+NDBI: 0.030
+B8 (NIR): 1745
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#270</styleUrl>
+                <Point id="268">
+                    <coordinates>77.85385996756213,30.359201893450578,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="275">
+                <name>L5  seg1420  (Built-up)</name>
+                <description>label_id: 5
+hint class: 1 (Built-up)
+NDVI: 0.219
+NDBI: 0.059
+B8 (NIR): 1615
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#276</styleUrl>
+                <Point id="274">
+                    <coordinates>77.65410620594807,30.440001608997008,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="281">
+                <name>L6  seg5485  (Built-up)</name>
+                <description>label_id: 6
+hint class: 1 (Built-up)
+NDVI: 0.181
+NDBI: 0.042
+B8 (NIR): 1729
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#282</styleUrl>
+                <Point id="280">
+                    <coordinates>78.06559997594373,30.33809552908623,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="287">
+                <name>L7  seg6512  (Built-up)</name>
+                <description>label_id: 7
+hint class: 1 (Built-up)
+NDVI: 0.148
+NDBI: 0.019
+B8 (NIR): 1834
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#288</styleUrl>
+                <Point id="286">
+                    <coordinates>78.00122218720803,30.304842902588078,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="293">
+                <name>L8  seg7132  (Built-up)</name>
+                <description>label_id: 8
+hint class: 1 (Built-up)
+NDVI: 0.237
+NDBI: 0.016
+B8 (NIR): 1818
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#294</styleUrl>
+                <Point id="292">
+                    <coordinates>78.02370018460174,30.286873775382485,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="298">
+            <Style id="301">
+                <IconStyle id="302">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="303">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="304">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="307">
+                <IconStyle id="308">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="309">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="310">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="313">
+                <IconStyle id="314">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="315">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="316">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="319">
+                <IconStyle id="320">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="321">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="322">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="325">
+                <IconStyle id="326">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="327">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="328">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="331">
+                <IconStyle id="332">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="333">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="334">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="337">
+                <IconStyle id="338">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="339">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="340">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="343">
+                <IconStyle id="344">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="345">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="346">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <name>2 Dense Veg</name>
+            <Placemark id="300">
+                <name>L9  seg2516  (Dense Vegetation)</name>
+                <description>label_id: 9
+hint class: 2 (Dense Vegetation)
+NDVI: 0.817
+NDBI: -0.106
+B8 (NIR): 2262
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#301</styleUrl>
+                <Point id="299">
+                    <coordinates>77.85402664820465,30.413008185668687,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="306">
+                <name>L10  seg7908  (Dense Vegetation)</name>
+                <description>label_id: 10
+hint class: 2 (Dense Vegetation)
+NDVI: 0.703
+NDBI: -0.001
+B8 (NIR): 1909
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#307</styleUrl>
+                <Point id="305">
+                    <coordinates>78.17662760147263,30.251242294887653,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="312">
+                <name>L11  seg5461  (Dense Vegetation)</name>
+                <description>label_id: 11
+hint class: 2 (Dense Vegetation)
+NDVI: 0.823
+NDBI: -0.137
+B8 (NIR): 2398
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#313</styleUrl>
+                <Point id="311">
+                    <coordinates>77.77642966746612,30.33118193217962,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="318">
+                <name>L12  seg3957  (Dense Vegetation)</name>
+                <description>label_id: 12
+hint class: 2 (Dense Vegetation)
+NDVI: 0.781
+NDBI: -0.129
+B8 (NIR): 2393
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#319</styleUrl>
+                <Point id="317">
+                    <coordinates>77.72990084651907,30.37154166744856,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="324">
+                <name>L13  seg7045  (Dense Vegetation)</name>
+                <description>label_id: 13
+hint class: 2 (Dense Vegetation)
+NDVI: 0.753
+NDBI: -0.167
+B8 (NIR): 2737
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#325</styleUrl>
+                <Point id="323">
+                    <coordinates>78.17706684257843,30.293329043745967,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="330">
+                <name>L14  seg141  (Dense Vegetation)</name>
+                <description>label_id: 14
+hint class: 2 (Dense Vegetation)
+NDVI: 0.687
+NDBI: -0.118
+B8 (NIR): 2326
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#331</styleUrl>
+                <Point id="329">
+                    <coordinates>77.82288814873307,30.50031544702905,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="336">
+                <name>L15  seg440  (Dense Vegetation)</name>
+                <description>label_id: 15
+hint class: 2 (Dense Vegetation)
+NDVI: 0.838
+NDBI: -0.130
+B8 (NIR): 2373
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#337</styleUrl>
+                <Point id="335">
+                    <coordinates>77.83421551710347,30.48358033621912,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="342">
+                <name>L16  seg7825  (Dense Vegetation)</name>
+                <description>label_id: 16
+hint class: 2 (Dense Vegetation)
+NDVI: 0.811
+NDBI: -0.121
+B8 (NIR): 2363
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#343</styleUrl>
+                <Point id="341">
+                    <coordinates>77.93638588712324,30.254719966744936,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="347">
+            <Style id="350">
+                <IconStyle id="351">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="352">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="353">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="356">
+                <IconStyle id="357">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="358">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="359">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="362">
+                <IconStyle id="363">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="364">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="365">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="368">
+                <IconStyle id="369">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="370">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="371">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="374">
+                <IconStyle id="375">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="376">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="377">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="380">
+                <IconStyle id="381">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="382">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="383">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="386">
+                <IconStyle id="387">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="388">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="389">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="392">
+                <IconStyle id="393">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="394">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="395">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <name>3 Mixed Veg / Crop</name>
+            <Placemark id="349">
+                <name>L17  seg180  (Mixed Veg / Cropland)</name>
+                <description>label_id: 17
+hint class: 3 (Mixed Veg / Cropland)
+NDVI: 0.386
+NDBI: -0.005
+B8 (NIR): 1881
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#350</styleUrl>
+                <Point id="348">
+                    <coordinates>77.79402684276938,30.497092393611226,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="355">
+                <name>L18  seg604  (Mixed Veg / Cropland)</name>
+                <description>label_id: 18
+hint class: 3 (Mixed Veg / Cropland)
+NDVI: 0.445
+NDBI: -0.084
+B8 (NIR): 2178
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#356</styleUrl>
+                <Point id="354">
+                    <coordinates>77.79923015359034,30.473909012943913,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="361">
+                <name>L19  seg2524  (Mixed Veg / Cropland)</name>
+                <description>label_id: 19
+hint class: 3 (Mixed Veg / Cropland)
+NDVI: 0.442
+NDBI: -0.103
+B8 (NIR): 2244
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#362</styleUrl>
+                <Point id="360">
+                    <coordinates>77.74080561901306,30.4099626141306,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="367">
+                <name>L20  seg5034  (Mixed Veg / Cropland)</name>
+                <description>label_id: 20
+hint class: 3 (Mixed Veg / Cropland)
+NDVI: 0.453
+NDBI: -0.025
+B8 (NIR): 2007
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#368</styleUrl>
+                <Point id="366">
+                    <coordinates>78.02397033887885,30.349538125234925,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="373">
+                <name>L21  seg1109  (Mixed Veg / Cropland)</name>
+                <description>label_id: 21
+hint class: 3 (Mixed Veg / Cropland)
+NDVI: 0.513
+NDBI: -0.096
+B8 (NIR): 2237
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#374</styleUrl>
+                <Point id="372">
+                    <coordinates>77.9061155920814,30.456027813269344,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="379">
+                <name>L22  seg6354  (Mixed Veg / Cropland)</name>
+                <description>label_id: 22
+hint class: 3 (Mixed Veg / Cropland)
+NDVI: 0.314
+NDBI: -0.038
+B8 (NIR): 1993
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#380</styleUrl>
+                <Point id="378">
+                    <coordinates>77.9079951125244,30.307892551775236,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="385">
+                <name>L23  seg7850  (Mixed Veg / Cropland)</name>
+                <description>label_id: 23
+hint class: 3 (Mixed Veg / Cropland)
+NDVI: 0.435
+NDBI: -0.054
+B8 (NIR): 2101
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#386</styleUrl>
+                <Point id="384">
+                    <coordinates>78.12431414575332,30.2563916554036,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="391">
+                <name>L24  seg2979  (Mixed Veg / Cropland)</name>
+                <description>label_id: 24
+hint class: 3 (Mixed Veg / Cropland)
+NDVI: 0.536
+NDBI: -0.081
+B8 (NIR): 2192
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#392</styleUrl>
+                <Point id="390">
+                    <coordinates>77.96407458248252,30.402544289692816,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="396">
+            <Style id="399">
+                <IconStyle id="400">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="401">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="402">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="405">
+                <IconStyle id="406">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="407">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="408">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="411">
+                <IconStyle id="412">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="413">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="414">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="417">
+                <IconStyle id="418">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="419">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="420">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="423">
+                <IconStyle id="424">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="425">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="426">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="429">
+                <IconStyle id="430">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="431">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="432">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="435">
+                <IconStyle id="436">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="437">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="438">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="441">
+                <IconStyle id="442">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="443">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="444">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <name>4 Bare / Open</name>
+            <Placemark id="398">
+                <name>L25  seg6922  (Bare / Open Land)</name>
+                <description>label_id: 25
+hint class: 4 (Bare / Open Land)
+NDVI: 0.190
+NDBI: 0.033
+B8 (NIR): 1751
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#399</styleUrl>
+                <Point id="397">
+                    <coordinates>78.04644422741593,30.293954685064385,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="404">
+                <name>L26  seg307  (Bare / Open Land)</name>
+                <description>label_id: 26
+hint class: 4 (Bare / Open Land)
+NDVI: 0.122
+NDBI: 0.005
+B8 (NIR): 1855
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#405</styleUrl>
+                <Point id="403">
+                    <coordinates>77.76218226966542,30.487833216765914,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="410">
+                <name>L27  seg3679  (Bare / Open Land)</name>
+                <description>label_id: 27
+hint class: 4 (Bare / Open Land)
+NDVI: 0.173
+NDBI: -0.082
+B8 (NIR): 2157
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#411</styleUrl>
+                <Point id="409">
+                    <coordinates>77.86186817989903,30.38195621880763,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="416">
+                <name>L28  seg5952  (Bare / Open Land)</name>
+                <description>label_id: 28
+hint class: 4 (Bare / Open Land)
+NDVI: 0.174
+NDBI: 0.065
+B8 (NIR): 1646
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#417</styleUrl>
+                <Point id="415">
+                    <coordinates>78.06115891393705,30.323129047057122,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="422">
+                <name>L29  seg3441  (Bare / Open Land)</name>
+                <description>label_id: 29
+hint class: 4 (Bare / Open Land)
+NDVI: 0.181
+NDBI: -0.060
+B8 (NIR): 2068
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#423</styleUrl>
+                <Point id="421">
+                    <coordinates>77.87445689989644,30.38804522556897,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="428">
+                <name>L30  seg5485  (Bare / Open Land)</name>
+                <description>label_id: 30
+hint class: 4 (Bare / Open Land)
+NDVI: 0.181
+NDBI: 0.042
+B8 (NIR): 1729
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#429</styleUrl>
+                <Point id="427">
+                    <coordinates>78.06559997594373,30.33809552908623,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="434">
+                <name>L31  seg6819  (Bare / Open Land)</name>
+                <description>label_id: 31
+hint class: 4 (Bare / Open Land)
+NDVI: 0.193
+NDBI: 0.030
+B8 (NIR): 1763
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#435</styleUrl>
+                <Point id="433">
+                    <coordinates>78.04453140205145,30.29695738930668,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="440">
+                <name>L32  seg5925  (Bare / Open Land)</name>
+                <description>label_id: 32
+hint class: 4 (Bare / Open Land)
+NDVI: 0.198
+NDBI: 0.079
+B8 (NIR): 1604
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#441</styleUrl>
+                <Point id="439">
+                    <coordinates>78.03301077085257,30.323665449189132,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="445">
+            <Style id="448">
+                <IconStyle id="449">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="450">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="451">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="454">
+                <IconStyle id="455">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="456">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="457">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="460">
+                <IconStyle id="461">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="462">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="463">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="466">
+                <IconStyle id="467">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="468">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="469">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="472">
+                <IconStyle id="473">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="474">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="475">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="478">
+                <IconStyle id="479">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="480">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="481">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="484">
+                <IconStyle id="485">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="486">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="487">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="490">
+                <IconStyle id="491">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="492">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="493">
+                    <colorMode>normal</colorMode>
+                    <scale>0.8</scale>
+                </LabelStyle>
+            </Style>
+            <name>5 Water</name>
+            <Placemark id="447">
+                <name>L33  seg733  (Water)</name>
+                <description>label_id: 33
+hint class: 5 (Water)
+NDVI: 0.069
+NDBI: 0.114
+B8 (NIR): 1496
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#448</styleUrl>
+                <Point id="446">
+                    <coordinates>77.72450648530399,30.46613920398072,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="453">
+                <name>L34  seg1607  (Water)</name>
+                <description>label_id: 34
+hint class: 5 (Water)
+NDVI: 0.005
+NDBI: 0.231
+B8 (NIR): 1189
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#454</styleUrl>
+                <Point id="452">
+                    <coordinates>77.64817580317467,30.43371132485245,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="459">
+                <name>L35  seg6052  (Water)</name>
+                <description>label_id: 35
+hint class: 5 (Water)
+NDVI: 0.194
+NDBI: 0.118
+B8 (NIR): 1491
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#460</styleUrl>
+                <Point id="458">
+                    <coordinates>78.0387355271332,30.319322248347355,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="465">
+                <name>L36  seg1709  (Water)</name>
+                <description>label_id: 36
+hint class: 5 (Water)
+NDVI: 0.142
+NDBI: 0.207
+B8 (NIR): 1397
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#466</styleUrl>
+                <Point id="464">
+                    <coordinates>77.63184118458604,30.430323989979293,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="471">
+                <name>L37  seg659  (Water)</name>
+                <description>label_id: 37
+hint class: 5 (Water)
+NDVI: 0.078
+NDBI: 0.193
+B8 (NIR): 1298
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#472</styleUrl>
+                <Point id="470">
+                    <coordinates>77.7270784591715,30.46949269508351,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="477">
+                <name>L38  seg6120  (Water)</name>
+                <description>label_id: 38
+hint class: 5 (Water)
+NDVI: 0.185
+NDBI: 0.122
+B8 (NIR): 1473
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#478</styleUrl>
+                <Point id="476">
+                    <coordinates>78.03342008404451,30.317310146285145,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="483">
+                <name>L39  seg1635  (Water)</name>
+                <description>label_id: 39
+hint class: 5 (Water)
+NDVI: 0.096
+NDBI: 0.474
+B8 (NIR): 952
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#484</styleUrl>
+                <Point id="482">
+                    <coordinates>77.67096145201702,30.43287949810018,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="489">
+                <name>L40  seg1194  (Water)</name>
+                <description>label_id: 40
+hint class: 5 (Water)
+NDVI: 0.132
+NDBI: 0.132
+B8 (NIR): 1497
+---
+TRUE CLASS = ?
+</description>
+                <styleUrl>#490</styleUrl>
+                <Point id="488">
+                    <coordinates>77.69270372125065,30.447185439414326,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,65 @@
+==============================================================================
+Dehradun S2 composites — pre-processing inspection
+==============================================================================
+
+[2016]
+  file        : Dehradun_2016.tif
+  driver      : GTiff
+  crs         : EPSG:32644
+  transform   : (10.0, 0.0, 170670.0, 0.0, -10.0, 3381280.0)
+  size (HxW)  : 3371 x 5864
+  pixel size  : 10.000 x 10.000 m
+  bands       : 12  (expected 12)
+  dtypes      : {'float32'}
+  nodata      : (None, None, None, None, None, None, None, None, None, None, None, None)
+  bounds      : L=170670.0  R=229310.0  B=3347570.0  T=3381280.0
+  extent (km) : 58.64 x 33.71
+
+  Per-band stats (strided sample, NaN-aware):
+    idx  expected         min        mean         max    %nan
+      1        B2      0.0000    445.4212   4858.0000  49.60%
+      2        B3     13.0000    646.6544   5014.0000  49.60%
+      3        B4      0.0000    636.2857   5374.0000  49.60%
+      4        B8    127.0000   2136.1883   8464.0000  49.60%
+      5        B5   1073.0739   1104.9787   1136.7921   0.00%
+      6        B6   1770.5110   1777.3256   1784.1206   0.00%
+      7        B7   1967.9615   1972.2981   1976.6222   0.00%
+      8       B8A   2097.1123   2124.6807   2152.1699   0.00%
+      9       B11   1743.5297   1804.5516   1865.3986   0.00%
+     10       B12   1330.6868   1333.7843   1336.8730   0.00%
+     11      NDVI     -0.5436      0.5640      1.0000  49.60%
+     12      NDBI     -0.6456     -0.0693      0.8656  49.60%
+
+[2024]
+  file        : Dehradun_2024.tif
+  driver      : GTiff
+  crs         : EPSG:32644
+  transform   : (10.0, 0.0, 170670.0, 0.0, -10.0, 3381280.0)
+  size (HxW)  : 3371 x 5864
+  pixel size  : 10.000 x 10.000 m
+  bands       : 12  (expected 12)
+  dtypes      : {'float32'}
+  nodata      : (None, None, None, None, None, None, None, None, None, None, None, None)
+  bounds      : L=170670.0  R=229310.0  B=3347570.0  T=3381280.0
+  extent (km) : 58.64 x 33.71
+
+  Per-band stats (strided sample, NaN-aware):
+    idx  expected         min        mean         max    %nan
+      1        B2     44.0000    469.8407   5260.0000  49.60%
+      2        B3     65.5000    638.7156   5132.0000  49.60%
+      3        B4     30.5000    626.7895   6896.0000  49.60%
+      4        B8     74.5000   2185.4507   8735.0000  49.60%
+      5        B5   1080.8241   1084.5412   1088.2477   0.00%
+      6        B6   1701.4475   1739.5474   1777.5382   0.00%
+      7        B7   1910.1946   1960.6848   2011.0303   0.00%
+      8       B8A   2067.8950   2144.0949   2220.0764   0.00%
+      9       B11   1766.4006   1817.8201   1869.0922   0.00%
+     10       B12   1295.5579   1337.1006   1378.7627   0.00%
+     11      NDVI     -0.5398      0.5738      0.9096  49.60%
+     12      NDBI     -0.6517     -0.0758      0.9216  49.60%
+
+Co-registration check (2016 vs 2024):
+  same CRS       : True  (EPSG:32644 vs EPSG:32644)
+  same shape     : True  (3371x5864 vs 3371x5864)
+  same transform : True
+  OK — rasters share grid; per-pixel comparisons are safe.

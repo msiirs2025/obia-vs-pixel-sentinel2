@@ -1,0 +1,2196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <name>validation 2016</name>
+        <Folder id="2">
+            <Style id="5">
+                <IconStyle id="6">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="7">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="8">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="11">
+                <IconStyle id="12">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="13">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="14">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="18">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="19">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="20">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="23">
+                <IconStyle id="24">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="25">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="26">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="29">
+                <IconStyle id="30">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="31">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="32">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="35">
+                <IconStyle id="36">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="37">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="38">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="41">
+                <IconStyle id="42">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="43">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="44">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="47">
+                <IconStyle id="48">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="49">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="50">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="53">
+                <IconStyle id="54">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="55">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="56">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="59">
+                <IconStyle id="60">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="61">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="62">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="65">
+                <IconStyle id="66">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="67">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="68">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="71">
+                <IconStyle id="72">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="73">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="74">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="77">
+                <IconStyle id="78">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="79">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="80">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="83">
+                <IconStyle id="84">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="85">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="86">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="89">
+                <IconStyle id="90">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="91">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="92">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <name>1 Built-up</name>
+            <Placemark id="4">
+                <name>V1  obia=1  pix=3</name>
+                <description>point_id: 1
+year: 2016
+OBIA prediction: 1 (Built-up)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#5</styleUrl>
+                <Point id="3">
+                    <coordinates>77.96361305591046,30.330390591369113,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10">
+                <name>V2  obia=1  pix=1</name>
+                <description>point_id: 2
+year: 2016
+OBIA prediction: 1 (Built-up)
+Pixel prediction: 1 (Built-up)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#11</styleUrl>
+                <Point id="9">
+                    <coordinates>78.07333172413374,30.30105918873929,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="16">
+                <name>V3  obia=1  pix=1</name>
+                <description>point_id: 3
+year: 2016
+OBIA prediction: 1 (Built-up)
+Pixel prediction: 1 (Built-up)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#17</styleUrl>
+                <Point id="15">
+                    <coordinates>78.04079063043174,30.332521871613405,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="22">
+                <name>V4  obia=1  pix=3</name>
+                <description>point_id: 4
+year: 2016
+OBIA prediction: 1 (Built-up)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#23</styleUrl>
+                <Point id="21">
+                    <coordinates>78.02378899911493,30.310311799187083,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28">
+                <name>V5  obia=1  pix=3</name>
+                <description>point_id: 5
+year: 2016
+OBIA prediction: 1 (Built-up)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#29</styleUrl>
+                <Point id="27">
+                    <coordinates>78.017083909438,30.30177209817947,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34">
+                <name>V6  obia=1  pix=1</name>
+                <description>point_id: 6
+year: 2016
+OBIA prediction: 1 (Built-up)
+Pixel prediction: 1 (Built-up)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#35</styleUrl>
+                <Point id="33">
+                    <coordinates>77.9902810282612,30.331999526713556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40">
+                <name>V7  obia=1  pix=3</name>
+                <description>point_id: 7
+year: 2016
+OBIA prediction: 1 (Built-up)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#41</styleUrl>
+                <Point id="39">
+                    <coordinates>77.73182036497332,30.45464158668337,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="46">
+                <name>V8  obia=1  pix=3</name>
+                <description>point_id: 8
+year: 2016
+OBIA prediction: 1 (Built-up)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#47</styleUrl>
+                <Point id="45">
+                    <coordinates>78.0467023186502,30.326072295710404,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="52">
+                <name>V9  obia=1  pix=1</name>
+                <description>point_id: 9
+year: 2016
+OBIA prediction: 1 (Built-up)
+Pixel prediction: 1 (Built-up)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#53</styleUrl>
+                <Point id="51">
+                    <coordinates>77.99778473823785,30.29050868556069,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="58">
+                <name>V10  obia=1  pix=3</name>
+                <description>point_id: 10
+year: 2016
+OBIA prediction: 1 (Built-up)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#59</styleUrl>
+                <Point id="57">
+                    <coordinates>78.0586349370678,30.30596003245402,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="64">
+                <name>V11  obia=1  pix=4</name>
+                <description>point_id: 11
+year: 2016
+OBIA prediction: 1 (Built-up)
+Pixel prediction: 4 (Bare/Open)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#65</styleUrl>
+                <Point id="63">
+                    <coordinates>78.08368486855373,30.31644144239665,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="70">
+                <name>V12  obia=1  pix=5</name>
+                <description>point_id: 12
+year: 2016
+OBIA prediction: 1 (Built-up)
+Pixel prediction: 5 (Water)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#71</styleUrl>
+                <Point id="69">
+                    <coordinates>77.57655126502043,30.400796517060964,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="76">
+                <name>V13  obia=1  pix=3</name>
+                <description>point_id: 13
+year: 2016
+OBIA prediction: 1 (Built-up)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#77</styleUrl>
+                <Point id="75">
+                    <coordinates>78.10799830513918,30.31680124613793,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="82">
+                <name>V14  obia=1  pix=3</name>
+                <description>point_id: 14
+year: 2016
+OBIA prediction: 1 (Built-up)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#83</styleUrl>
+                <Point id="81">
+                    <coordinates>78.06093934199191,30.31232468035433,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="88">
+                <name>V15  obia=1  pix=1</name>
+                <description>point_id: 15
+year: 2016
+OBIA prediction: 1 (Built-up)
+Pixel prediction: 1 (Built-up)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#89</styleUrl>
+                <Point id="87">
+                    <coordinates>77.7917632749232,30.492920381578397,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="93">
+            <Style id="96">
+                <IconStyle id="97">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="98">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="99">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="102">
+                <IconStyle id="103">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="104">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="105">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="108">
+                <IconStyle id="109">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="110">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="111">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="114">
+                <IconStyle id="115">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="116">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="117">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="120">
+                <IconStyle id="121">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="122">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="123">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="126">
+                <IconStyle id="127">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="128">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="129">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="132">
+                <IconStyle id="133">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="134">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="135">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="138">
+                <IconStyle id="139">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="140">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="141">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="144">
+                <IconStyle id="145">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="146">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="147">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="150">
+                <IconStyle id="151">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="152">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="153">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="156">
+                <IconStyle id="157">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="158">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="159">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="162">
+                <IconStyle id="163">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="164">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="165">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="168">
+                <IconStyle id="169">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="170">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="171">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="174">
+                <IconStyle id="175">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="176">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="177">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="180">
+                <IconStyle id="181">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="182">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="183">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <name>2 Dense Veg</name>
+            <Placemark id="95">
+                <name>V16  obia=2  pix=2</name>
+                <description>point_id: 16
+year: 2016
+OBIA prediction: 2 (Dense Veg)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#96</styleUrl>
+                <Point id="94">
+                    <coordinates>78.02434550243784,30.38120702893588,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="101">
+                <name>V17  obia=2  pix=2</name>
+                <description>point_id: 17
+year: 2016
+OBIA prediction: 2 (Dense Veg)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#102</styleUrl>
+                <Point id="100">
+                    <coordinates>77.74631109620012,30.350498116576883,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="107">
+                <name>V18  obia=2  pix=2</name>
+                <description>point_id: 18
+year: 2016
+OBIA prediction: 2 (Dense Veg)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#108</styleUrl>
+                <Point id="106">
+                    <coordinates>77.79793816554633,30.300826854366903,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="113">
+                <name>V19  obia=2  pix=3</name>
+                <description>point_id: 19
+year: 2016
+OBIA prediction: 2 (Dense Veg)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#114</styleUrl>
+                <Point id="112">
+                    <coordinates>77.73976919418689,30.469087248097974,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="119">
+                <name>V20  obia=2  pix=2</name>
+                <description>point_id: 20
+year: 2016
+OBIA prediction: 2 (Dense Veg)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#120</styleUrl>
+                <Point id="118">
+                    <coordinates>77.84317487600475,30.451795464328114,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="125">
+                <name>V21  obia=2  pix=3</name>
+                <description>point_id: 21
+year: 2016
+OBIA prediction: 2 (Dense Veg)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#126</styleUrl>
+                <Point id="124">
+                    <coordinates>77.90405671978415,30.412496269532525,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="131">
+                <name>V22  obia=2  pix=2</name>
+                <description>point_id: 22
+year: 2016
+OBIA prediction: 2 (Dense Veg)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#132</styleUrl>
+                <Point id="130">
+                    <coordinates>77.77189347468396,30.353477380885764,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="137">
+                <name>V23  obia=2  pix=2</name>
+                <description>point_id: 23
+year: 2016
+OBIA prediction: 2 (Dense Veg)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#138</styleUrl>
+                <Point id="136">
+                    <coordinates>78.13117746072135,30.316861075432612,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="143">
+                <name>V24  obia=2  pix=3</name>
+                <description>point_id: 24
+year: 2016
+OBIA prediction: 2 (Dense Veg)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#144</styleUrl>
+                <Point id="142">
+                    <coordinates>77.93428152376048,30.424121453102444,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="149">
+                <name>V25  obia=2  pix=2</name>
+                <description>point_id: 25
+year: 2016
+OBIA prediction: 2 (Dense Veg)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#150</styleUrl>
+                <Point id="148">
+                    <coordinates>77.98245910883449,30.39710908148032,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="155">
+                <name>V26  obia=2  pix=2</name>
+                <description>point_id: 26
+year: 2016
+OBIA prediction: 2 (Dense Veg)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#156</styleUrl>
+                <Point id="154">
+                    <coordinates>78.11455264650388,30.394505061593886,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="161">
+                <name>V27  obia=2  pix=2</name>
+                <description>point_id: 27
+year: 2016
+OBIA prediction: 2 (Dense Veg)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#162</styleUrl>
+                <Point id="160">
+                    <coordinates>78.04580486711347,30.383588220748752,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="167">
+                <name>V28  obia=2  pix=2</name>
+                <description>point_id: 28
+year: 2016
+OBIA prediction: 2 (Dense Veg)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#168</styleUrl>
+                <Point id="166">
+                    <coordinates>77.86060969903285,30.433911268891602,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="173">
+                <name>V29  obia=2  pix=2</name>
+                <description>point_id: 29
+year: 2016
+OBIA prediction: 2 (Dense Veg)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#174</styleUrl>
+                <Point id="172">
+                    <coordinates>77.81468669151003,30.454078106086765,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="179">
+                <name>V30  obia=2  pix=2</name>
+                <description>point_id: 30
+year: 2016
+OBIA prediction: 2 (Dense Veg)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#180</styleUrl>
+                <Point id="178">
+                    <coordinates>77.72335219255828,30.387344022303697,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="184">
+            <Style id="187">
+                <IconStyle id="188">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="189">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="190">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="193">
+                <IconStyle id="194">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="195">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="196">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="199">
+                <IconStyle id="200">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="201">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="202">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="205">
+                <IconStyle id="206">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="207">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="208">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="211">
+                <IconStyle id="212">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="213">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="214">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="217">
+                <IconStyle id="218">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="219">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="220">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="223">
+                <IconStyle id="224">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="225">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="226">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="229">
+                <IconStyle id="230">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="231">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="232">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="235">
+                <IconStyle id="236">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="237">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="238">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="241">
+                <IconStyle id="242">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="243">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="244">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="247">
+                <IconStyle id="248">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="249">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="250">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="253">
+                <IconStyle id="254">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="255">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="256">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="259">
+                <IconStyle id="260">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="261">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="262">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="265">
+                <IconStyle id="266">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="267">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="268">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="271">
+                <IconStyle id="272">
+                    <color>ff32cd9a</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="273">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="274">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <name>3 Mixed Veg/Crop</name>
+            <Placemark id="186">
+                <name>V31  obia=3  pix=3</name>
+                <description>point_id: 31
+year: 2016
+OBIA prediction: 3 (Mixed Veg/Crop)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#187</styleUrl>
+                <Point id="185">
+                    <coordinates>78.11865004275971,30.26184282579338,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="192">
+                <name>V32  obia=3  pix=3</name>
+                <description>point_id: 32
+year: 2016
+OBIA prediction: 3 (Mixed Veg/Crop)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#193</styleUrl>
+                <Point id="191">
+                    <coordinates>77.80377714435993,30.396101344939147,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="198">
+                <name>V33  obia=3  pix=2</name>
+                <description>point_id: 33
+year: 2016
+OBIA prediction: 3 (Mixed Veg/Crop)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#199</styleUrl>
+                <Point id="197">
+                    <coordinates>78.06668541351382,30.297393098906806,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="204">
+                <name>V34  obia=3  pix=2</name>
+                <description>point_id: 34
+year: 2016
+OBIA prediction: 3 (Mixed Veg/Crop)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#205</styleUrl>
+                <Point id="203">
+                    <coordinates>77.75977728055264,30.427567439677144,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="210">
+                <name>V35  obia=3  pix=3</name>
+                <description>point_id: 35
+year: 2016
+OBIA prediction: 3 (Mixed Veg/Crop)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#211</styleUrl>
+                <Point id="209">
+                    <coordinates>77.7901046601472,30.407037118833053,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="216">
+                <name>V36  obia=3  pix=3</name>
+                <description>point_id: 36
+year: 2016
+OBIA prediction: 3 (Mixed Veg/Crop)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#217</styleUrl>
+                <Point id="215">
+                    <coordinates>78.02282490403059,30.26312470805215,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="222">
+                <name>V37  obia=3  pix=2</name>
+                <description>point_id: 37
+year: 2016
+OBIA prediction: 3 (Mixed Veg/Crop)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#223</styleUrl>
+                <Point id="221">
+                    <coordinates>77.99572563624055,30.26602237686514,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="228">
+                <name>V38  obia=3  pix=3</name>
+                <description>point_id: 38
+year: 2016
+OBIA prediction: 3 (Mixed Veg/Crop)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#229</styleUrl>
+                <Point id="227">
+                    <coordinates>77.71311332111593,30.425948798832877,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="234">
+                <name>V39  obia=3  pix=3</name>
+                <description>point_id: 39
+year: 2016
+OBIA prediction: 3 (Mixed Veg/Crop)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#235</styleUrl>
+                <Point id="233">
+                    <coordinates>78.09849981280047,30.258150925802713,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="240">
+                <name>V40  obia=3  pix=2</name>
+                <description>point_id: 40
+year: 2016
+OBIA prediction: 3 (Mixed Veg/Crop)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#241</styleUrl>
+                <Point id="239">
+                    <coordinates>77.93318715497804,30.329319337627762,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="246">
+                <name>V41  obia=3  pix=3</name>
+                <description>point_id: 41
+year: 2016
+OBIA prediction: 3 (Mixed Veg/Crop)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#247</styleUrl>
+                <Point id="245">
+                    <coordinates>77.84804790554455,30.339106226834236,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="252">
+                <name>V42  obia=3  pix=2</name>
+                <description>point_id: 42
+year: 2016
+OBIA prediction: 3 (Mixed Veg/Crop)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#253</styleUrl>
+                <Point id="251">
+                    <coordinates>78.0856209796682,30.377358692155266,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="258">
+                <name>V43  obia=3  pix=3</name>
+                <description>point_id: 43
+year: 2016
+OBIA prediction: 3 (Mixed Veg/Crop)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#259</styleUrl>
+                <Point id="257">
+                    <coordinates>78.09636150590704,30.281371234608578,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="264">
+                <name>V44  obia=3  pix=3</name>
+                <description>point_id: 44
+year: 2016
+OBIA prediction: 3 (Mixed Veg/Crop)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#265</styleUrl>
+                <Point id="263">
+                    <coordinates>77.94942376880401,30.295160970953138,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="270">
+                <name>V45  obia=3  pix=3</name>
+                <description>point_id: 45
+year: 2016
+OBIA prediction: 3 (Mixed Veg/Crop)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#271</styleUrl>
+                <Point id="269">
+                    <coordinates>77.99672980411971,30.35911179978436,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="275">
+            <Style id="278">
+                <IconStyle id="279">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="280">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="281">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="284">
+                <IconStyle id="285">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="286">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="287">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="290">
+                <IconStyle id="291">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="292">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="293">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="296">
+                <IconStyle id="297">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="298">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="299">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="302">
+                <IconStyle id="303">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="304">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="305">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="308">
+                <IconStyle id="309">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="310">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="311">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="314">
+                <IconStyle id="315">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="316">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="317">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="320">
+                <IconStyle id="321">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="322">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="323">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="326">
+                <IconStyle id="327">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="328">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="329">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="332">
+                <IconStyle id="333">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="334">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="335">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="338">
+                <IconStyle id="339">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="340">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="341">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="344">
+                <IconStyle id="345">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="346">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="347">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="350">
+                <IconStyle id="351">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="352">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="353">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="356">
+                <IconStyle id="357">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="358">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="359">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="362">
+                <IconStyle id="363">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="364">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="365">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <name>4 Bare/Open</name>
+            <Placemark id="277">
+                <name>V46  obia=4  pix=4</name>
+                <description>point_id: 46
+year: 2016
+OBIA prediction: 4 (Bare/Open)
+Pixel prediction: 4 (Bare/Open)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#278</styleUrl>
+                <Point id="276">
+                    <coordinates>77.96325119660813,30.342105450464935,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="283">
+                <name>V47  obia=4  pix=1</name>
+                <description>point_id: 47
+year: 2016
+OBIA prediction: 4 (Bare/Open)
+Pixel prediction: 1 (Built-up)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#284</styleUrl>
+                <Point id="282">
+                    <coordinates>78.07423796130931,30.326511271482598,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="289">
+                <name>V48  obia=4  pix=4</name>
+                <description>point_id: 48
+year: 2016
+OBIA prediction: 4 (Bare/Open)
+Pixel prediction: 4 (Bare/Open)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#290</styleUrl>
+                <Point id="288">
+                    <coordinates>78.13504680403751,30.251741178558714,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="295">
+                <name>V49  obia=4  pix=1</name>
+                <description>point_id: 49
+year: 2016
+OBIA prediction: 4 (Bare/Open)
+Pixel prediction: 1 (Built-up)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#296</styleUrl>
+                <Point id="294">
+                    <coordinates>77.76903341315771,30.415083134355104,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="301">
+                <name>V50  obia=4  pix=1</name>
+                <description>point_id: 50
+year: 2016
+OBIA prediction: 4 (Bare/Open)
+Pixel prediction: 1 (Built-up)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#302</styleUrl>
+                <Point id="300">
+                    <coordinates>78.11840120189068,30.302330752752912,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="307">
+                <name>V51  obia=4  pix=4</name>
+                <description>point_id: 51
+year: 2016
+OBIA prediction: 4 (Bare/Open)
+Pixel prediction: 4 (Bare/Open)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#308</styleUrl>
+                <Point id="306">
+                    <coordinates>77.62669882083745,30.433660095155684,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="313">
+                <name>V52  obia=4  pix=1</name>
+                <description>point_id: 52
+year: 2016
+OBIA prediction: 4 (Bare/Open)
+Pixel prediction: 1 (Built-up)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#314</styleUrl>
+                <Point id="312">
+                    <coordinates>78.07890862266144,30.31976178219699,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="319">
+                <name>V53  obia=4  pix=1</name>
+                <description>point_id: 53
+year: 2016
+OBIA prediction: 4 (Bare/Open)
+Pixel prediction: 1 (Built-up)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#320</styleUrl>
+                <Point id="318">
+                    <coordinates>78.06279995943262,30.333559538099628,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="325">
+                <name>V54  obia=4  pix=1</name>
+                <description>point_id: 54
+year: 2016
+OBIA prediction: 4 (Bare/Open)
+Pixel prediction: 1 (Built-up)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#326</styleUrl>
+                <Point id="324">
+                    <coordinates>78.00965452102102,30.31711355033312,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="331">
+                <name>V55  obia=4  pix=4</name>
+                <description>point_id: 55
+year: 2016
+OBIA prediction: 4 (Bare/Open)
+Pixel prediction: 4 (Bare/Open)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#332</styleUrl>
+                <Point id="330">
+                    <coordinates>78.00562392642121,30.33000731836838,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="337">
+                <name>V56  obia=4  pix=4</name>
+                <description>point_id: 56
+year: 2016
+OBIA prediction: 4 (Bare/Open)
+Pixel prediction: 4 (Bare/Open)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#338</styleUrl>
+                <Point id="336">
+                    <coordinates>77.6058173913239,30.426716620108376,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="343">
+                <name>V57  obia=4  pix=4</name>
+                <description>point_id: 57
+year: 2016
+OBIA prediction: 4 (Bare/Open)
+Pixel prediction: 4 (Bare/Open)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#344</styleUrl>
+                <Point id="342">
+                    <coordinates>77.9018911009003,30.339402259260787,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="349">
+                <name>V58  obia=4  pix=4</name>
+                <description>point_id: 58
+year: 2016
+OBIA prediction: 4 (Bare/Open)
+Pixel prediction: 4 (Bare/Open)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#350</styleUrl>
+                <Point id="348">
+                    <coordinates>77.87308857972025,30.33628132412001,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="355">
+                <name>V59  obia=4  pix=1</name>
+                <description>point_id: 59
+year: 2016
+OBIA prediction: 4 (Bare/Open)
+Pixel prediction: 1 (Built-up)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#356</styleUrl>
+                <Point id="354">
+                    <coordinates>78.02659931254557,30.341127698699125,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="361">
+                <name>V60  obia=4  pix=3</name>
+                <description>point_id: 60
+year: 2016
+OBIA prediction: 4 (Bare/Open)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#362</styleUrl>
+                <Point id="360">
+                    <coordinates>78.00370243633289,30.304351919051694,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="366">
+            <Style id="369">
+                <IconStyle id="370">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="371">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="372">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="375">
+                <IconStyle id="376">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="377">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="378">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="381">
+                <IconStyle id="382">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="383">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="384">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="387">
+                <IconStyle id="388">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="389">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="390">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="393">
+                <IconStyle id="394">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="395">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="396">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="399">
+                <IconStyle id="400">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="401">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="402">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="405">
+                <IconStyle id="406">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="407">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="408">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="411">
+                <IconStyle id="412">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="413">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="414">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="417">
+                <IconStyle id="418">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="419">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="420">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="423">
+                <IconStyle id="424">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="425">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="426">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="429">
+                <IconStyle id="430">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="431">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="432">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="435">
+                <IconStyle id="436">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="437">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="438">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="441">
+                <IconStyle id="442">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="443">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="444">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="447">
+                <IconStyle id="448">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="449">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="450">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="453">
+                <IconStyle id="454">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="455">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="456">
+                    <colorMode>normal</colorMode>
+                    <scale>0.7</scale>
+                </LabelStyle>
+            </Style>
+            <name>5 Water</name>
+            <Placemark id="368">
+                <name>V61  obia=5  pix=3</name>
+                <description>point_id: 61
+year: 2016
+OBIA prediction: 5 (Water)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#369</styleUrl>
+                <Point id="367">
+                    <coordinates>77.67511400685282,30.438871018725596,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="374">
+                <name>V62  obia=5  pix=3</name>
+                <description>point_id: 62
+year: 2016
+OBIA prediction: 5 (Water)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#375</styleUrl>
+                <Point id="373">
+                    <coordinates>77.67286024041518,30.440887328455847,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="380">
+                <name>V63  obia=5  pix=3</name>
+                <description>point_id: 63
+year: 2016
+OBIA prediction: 5 (Water)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#381</styleUrl>
+                <Point id="379">
+                    <coordinates>77.80488069673792,30.502530418464787,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="386">
+                <name>V64  obia=5  pix=1</name>
+                <description>point_id: 64
+year: 2016
+OBIA prediction: 5 (Water)
+Pixel prediction: 1 (Built-up)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#387</styleUrl>
+                <Point id="385">
+                    <coordinates>78.03793988477592,30.323619436667588,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="392">
+                <name>V65  obia=5  pix=3</name>
+                <description>point_id: 65
+year: 2016
+OBIA prediction: 5 (Water)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#393</styleUrl>
+                <Point id="391">
+                    <coordinates>77.65588382048473,30.435223403493577,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="398">
+                <name>V66  obia=5  pix=3</name>
+                <description>point_id: 66
+year: 2016
+OBIA prediction: 5 (Water)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#399</styleUrl>
+                <Point id="397">
+                    <coordinates>77.67015767765851,30.43162145248821,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="404">
+                <name>V67  obia=5  pix=1</name>
+                <description>point_id: 67
+year: 2016
+OBIA prediction: 5 (Water)
+Pixel prediction: 1 (Built-up)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#405</styleUrl>
+                <Point id="403">
+                    <coordinates>77.80484150715566,30.500545700903164,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="410">
+                <name>V68  obia=5  pix=3</name>
+                <description>point_id: 68
+year: 2016
+OBIA prediction: 5 (Water)
+Pixel prediction: 3 (Mixed Veg/Crop)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#411</styleUrl>
+                <Point id="409">
+                    <coordinates>77.65526927877738,30.434937145272563,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="416">
+                <name>V69  obia=5  pix=4</name>
+                <description>point_id: 69
+year: 2016
+OBIA prediction: 5 (Water)
+Pixel prediction: 4 (Bare/Open)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#417</styleUrl>
+                <Point id="415">
+                    <coordinates>77.59591732584488,30.427179845627844,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="422">
+                <name>V70  obia=5  pix=2</name>
+                <description>point_id: 70
+year: 2016
+OBIA prediction: 5 (Water)
+Pixel prediction: 2 (Dense Veg)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#423</styleUrl>
+                <Point id="421">
+                    <coordinates>77.66722471044805,30.438308917640473,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="428">
+                <name>V71  obia=5  pix=1</name>
+                <description>point_id: 71
+year: 2016
+OBIA prediction: 5 (Water)
+Pixel prediction: 1 (Built-up)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#429</styleUrl>
+                <Point id="427">
+                    <coordinates>77.663594200269,30.444076790331312,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="434">
+                <name>V72  obia=5  pix=5</name>
+                <description>point_id: 72
+year: 2016
+OBIA prediction: 5 (Water)
+Pixel prediction: 5 (Water)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#435</styleUrl>
+                <Point id="433">
+                    <coordinates>77.59401751684952,30.424966345342575,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="440">
+                <name>V73  obia=5  pix=5</name>
+                <description>point_id: 73
+year: 2016
+OBIA prediction: 5 (Water)
+Pixel prediction: 5 (Water)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#441</styleUrl>
+                <Point id="439">
+                    <coordinates>77.59578771617734,30.424922407902937,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="446">
+                <name>V74  obia=5  pix=5</name>
+                <description>point_id: 74
+year: 2016
+OBIA prediction: 5 (Water)
+Pixel prediction: 5 (Water)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#447</styleUrl>
+                <Point id="445">
+                    <coordinates>77.57773877367855,30.408491403158713,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="452">
+                <name>V75  obia=5  pix=5</name>
+                <description>point_id: 75
+year: 2016
+OBIA prediction: 5 (Water)
+Pixel prediction: 5 (Water)
+---
+TRUE CLASS = ?  (prepend digit 1..5 to placemark name)
+</description>
+                <styleUrl>#453</styleUrl>
+                <Point id="451">
+                    <coordinates>77.67030411217338,30.436494127149285,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

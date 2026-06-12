@@ -1,0 +1,33 @@
+OBIA RandomForest report — 2024
+n_train = 40    classes present = [np.int64(1), np.int64(2), np.int64(3), np.int64(4), np.int64(5)]
+OOB score = 0.750    (rough — small sample)
+
+In-sample confusion matrix (rows = true, cols = pred):
+        Built-  Dense   Mixed   Bare/O   Water
+  Built-     12       0       0       0       0
+  Dense       0       8       0       0       0
+  Mixed       0       0       7       0       0
+  Bare/O      1       0       0       7       0
+   Water      0       0       0       0       5
+
+In-sample classification report:
+                precision    recall  f1-score   support
+
+      Built-up       0.92      1.00      0.96        12
+     Dense Veg       1.00      1.00      1.00         8
+Mixed Veg/Crop       1.00      1.00      1.00         7
+     Bare/Open       1.00      0.88      0.93         8
+         Water       1.00      1.00      1.00         5
+
+      accuracy                           0.97        40
+     macro avg       0.98      0.97      0.98        40
+  weighted avg       0.98      0.97      0.97        40
+
+
+Feature importances:
+     mean_NDVI : 0.237
+       mean_B3 : 0.186
+       mean_B2 : 0.181
+       mean_B4 : 0.134
+       mean_B8 : 0.132
+     mean_NDBI : 0.129

@@ -1,0 +1,33 @@
+Pixel-based RandomForest report — 2016
+n_train_pixels = 360
+OOB score = 0.772
+
+In-sample confusion matrix (rows = true, cols = pred):
+        Built-  Dense   Mixed   Bare/O   Water
+  Built-    109       0       5       3       0
+  Dense       0      78       3       0       0
+  Mixed       1       0      60       2       0
+  Bare/O      3       0       0      60       0
+   Water      0       0       0       0      36
+
+In-sample classification report:
+                precision    recall  f1-score   support
+
+      Built-up       0.96      0.93      0.95       117
+     Dense Veg       1.00      0.96      0.98        81
+Mixed Veg/Crop       0.88      0.95      0.92        63
+     Bare/Open       0.92      0.95      0.94        63
+         Water       1.00      1.00      1.00        36
+
+      accuracy                           0.95       360
+     macro avg       0.95      0.96      0.96       360
+  weighted avg       0.95      0.95      0.95       360
+
+
+Feature importances:
+    NDVI : 0.243
+      B2 : 0.179
+    NDBI : 0.161
+      B8 : 0.159
+      B4 : 0.135
+      B3 : 0.124

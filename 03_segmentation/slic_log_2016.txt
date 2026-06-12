@@ -1,0 +1,11 @@
+year=2016
+source=Dehradun_2016.tif
+slic_bands_1based=[1, 2, 3, 4]
+n_segments_requested=8000
+compactness=10.0
+n_segments_actual=8000
+seg_size_pixels_min=748
+seg_size_pixels_median=1241
+seg_size_pixels_mean=1245.22
+seg_size_pixels_max=2007
+slic_seconds=48.40
