@@ -125,9 +125,8 @@ flowchart LR
 ├── 05_classification_pixel/      # pixel classified TIFs (raw + 3x3-filtered)
 ├── 06_validation/                # KML reference points, accuracy_summary.csv, confusion matrices
 ├── 07_change_detection/          # transition matrices, urbanisation binary, change-class raster
-├── 08_maps_final/                # PNG cartographic output for the deck/report
-├── 09_report_slides/             # PowerPoint deck + Word report
-├── scripts/                      # 01-14, numbered, runnable in order
+├── 08_maps_final/                # PNG cartographic output
+├── scripts/                      # 01-12, numbered, runnable in order
 │   ├── 01_inspect_rasters.py
 │   ├── 02_build_valid_mask.py
 │   ├── 03_slic_segmentation.py
@@ -141,9 +140,7 @@ flowchart LR
 │   ├── 09_validation_kml.py
 │   ├── 10_confusion.py
 │   ├── 11_change_detection.py
-│   ├── 12_maps.py
-│   ├── 13_slides.py
-│   └── 14_report.py
+│   └── 12_maps.py
 ├── requirements.txt
 ├── LICENSE
 └── README.md
@@ -173,7 +170,7 @@ python -m pip install -r requirements.txt
 ### 3. Run the pipeline
 
 ```bash
-# OBIA + pixel pipelines + maps + slides + report — full chain
+# OBIA + pixel pipelines + maps — full chain
 python scripts/01_inspect_rasters.py
 python scripts/02_build_valid_mask.py
 python scripts/03_slic_segmentation.py
@@ -189,8 +186,6 @@ python scripts/09_validation_kml.py
 python scripts/10_confusion.py
 python scripts/11_change_detection.py
 python scripts/12_maps.py
-python scripts/13_slides.py
-python scripts/14_report.py
 ```
 
 Random seeds (NumPy `42` and `2026`) are fixed throughout, so the candidate selection and validation sample are deterministic.
@@ -210,7 +205,7 @@ Computed from `06_validation/accuracy_summary.csv`. Reference n = 75 points / da
 
 **The pixel-based method beats OBIA by 9–13 percentage points OA and 0.10–0.15 κ on both dates.**
 
-Why? Three reasons (see [`scripts/13_slides.py`](scripts/13_slides.py) slide 21 for the full discussion):
+Why? Three reasons:
 
 1. SLIC segments at our scale have a median of ≈ 12.4 ha. The characteristic length scale of land-cover change in peri-urban Dehradun is 0.1 – 1 ha. Mixed segments lose the minority class to within-segment averaging.
 2. The 3×3 training window gives the pixel classifier ~360 training samples vs 40 segments for OBIA — a 9× richer training set.
@@ -247,7 +242,7 @@ The **pixel-based figure (~80 km² of new built-up land)** is preferred because 
 
 If this work is useful to you, please cite as:
 
-> Salman, M. (2026). *Object-Based vs Pixel-Based Classification for Dehradun Urban Expansion Mapping (2016–2024)* [Computer software / mini-project report]. Indian Institute of Remote Sensing, ISRO. https://github.com/msiirs2025/obia-vs-pixel-sentinel2
+> Salman, M. (2026). *Object-Based vs Pixel-Based Classification for Dehradun Urban Expansion Mapping (2016–2024)* [Computer software]. Indian Institute of Remote Sensing, ISRO. https://github.com/msiirs2025/obia-vs-pixel-sentinel2
 
 BibTeX:
 
@@ -265,7 +260,7 @@ BibTeX:
 
 ## References
 
-All in-text references in the [report](09_report_slides/Dehradun_OBIA_Report.docx) use APA 7. The full list of 14 sources is in Section 7 of the report; the load-bearing six are listed here for quick reference:
+The load-bearing six references for the comparative discussion, in APA 7 style:
 
 - Achanta, R., Shaji, A., Smith, K., Lucchi, A., Fua, P., & Süsstrunk, S. (2012). SLIC superpixels compared to state-of-the-art superpixel methods. *IEEE Transactions on Pattern Analysis and Machine Intelligence, 34*(11), 2274–2282. https://doi.org/10.1109/TPAMI.2012.120
 - Blaschke, T. (2010). Object based image analysis for remote sensing. *ISPRS Journal of Photogrammetry and Remote Sensing, 65*(1), 2–16. https://doi.org/10.1016/j.isprsjprs.2009.06.004
